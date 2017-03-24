@@ -1,0 +1,5 @@
+c:\users\murali\documents\visual studio 2012\Projects\JavascriptLearning\JavascriptLearning\bin\JavascriptLearning.dll
+c:\users\murali\documents\visual studio 2012\Projects\JavascriptLearning\JavascriptLearning\bin\JavascriptLearning.pdb
+c:\users\murali\documents\visual studio 2012\Projects\JavascriptLearning\JavascriptLearning\obj\Debug\JavascriptLearning.csprojResolveAssemblyReference.cache
+c:\users\murali\documents\visual studio 2012\Projects\JavascriptLearning\JavascriptLearning\obj\Debug\JavascriptLearning.dll
+c:\users\murali\documents\visual studio 2012\Projects\JavascriptLearning\JavascriptLearning\obj\Debug\JavascriptLearning.pdb
