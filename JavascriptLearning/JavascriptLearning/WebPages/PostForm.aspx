@@ -14,5 +14,8 @@
         <asp:Label ID="lblStatus" runat="server"></asp:Label>
     </div>
     </form>
+    <script>
+        // this is for the purpose of javascript Addition.
+    </script>
 </body>
 </html>
